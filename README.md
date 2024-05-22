@@ -9,5 +9,5 @@ A web version of my python (pygame) recreation of the Stratagem Hero game includ
 
 ## Credits
 
-- Link to play the game [Stratagems-Hero](https://https://theoriseconcepts.github.io/Stratagem-Hero/index.html)
-- Link to python code [local and web versions](https://github.com/TheoriseConcepts/Stratagem-Hero)
+- Link to play the game [Stratagem-Hero](https://https://theoriseconcepts.github.io/Stratagem-Hero/index.html)
+- Link to python code [Local and Web versions](https://github.com/TheoriseConcepts/Stratagem-Hero)
