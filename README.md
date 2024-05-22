@@ -6,6 +6,7 @@ A web version of my python (pygame) recreation of the Stratagem Hero game includ
 
 - Issues with background music and input sounds (currently disabled)
 - Issues with updating Highscores (Placeholder Leaderboard)
+- Plan to add volume controls
 
 ## Credits
 
